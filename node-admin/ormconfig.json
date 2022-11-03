@@ -1,0 +1,11 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "mazen",
+  "password": "pass123",
+  "database": "mern-dashboard",
+  "entities": ["src/entities/*.entity.ts"],
+  "logging": false,
+  "synchronize": true
+}
